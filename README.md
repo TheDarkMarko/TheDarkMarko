@@ -1,6 +1,8 @@
-About Me
+# About Me
 
 Hello! I’m TheDarkMarko, a dedicated developer with a deep passion for coding and technology. My journey in software development has equipped me with a diverse skill set, allowing me to tackle a wide range of projects across different platforms. Below is a glimpse into the technologies and languages I work with:
+
+# skills
 
 C++: I specialize in building complex applications that require robust logic and extensive user interaction. My experience includes writing efficient algorithms and optimizing code for performance, ensuring that applications run smoothly even under demanding conditions.
 
