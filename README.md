@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I’m TheDarkMarko, a dedicated developer with a deep passion for coding and technology. My journey in software development has equipped me with a diverse skill set, allowing me to tackle a wide range of projects across different platforms. Below is a glimpse into the technologies and languages I work with:
+Hello World. I’m 2KeC, a dedicated developer with a deep passion for coding and technology. My journey in software development has equipped me with a diverse skill set, allowing me to tackle a wide range of projects across different platforms. Below is a glimpse into the technologies and languages I work with:
 
 # Skills
 
